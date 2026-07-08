@@ -1,0 +1,12 @@
+{
+  "name": "juri-live-iptv",
+  "version": "1.0.0",
+  "description": "Private IPTV Proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
