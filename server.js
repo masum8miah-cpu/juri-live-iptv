@@ -10,7 +10,7 @@ const PLAYLIST =
   "https://masum8miah-cpu.github.io/my-ip-tv/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A6%BF%E0%A6%9C.m3u";
 
 // Playlist Token
-const TOKEN = "evnat2026";
+const TOKEN = "evnat3";
 
 // Stats Key (শুধু তুমি জানবে)
 const ADMIN_KEY = "billaladmin2026";
